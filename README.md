@@ -36,7 +36,7 @@
 Follow these simple steps to get started with the Google Drive application:
 
 Authorization: Go to the application's website and authorize the application to access your Google Drive.
-<image src="[https://imgur.com/Wq1GM3I](https://i.postimg.cc/Fs5mzqpw/Screenshot-2023-07-25-144208.png)">
+<image src="https://postimg.cc/vDzCS0pv">
 
 Dashboard: Once authorized, you'll be directed to the dashboard, where you can view your Google Drive files and folders.
 
