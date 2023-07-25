@@ -35,24 +35,29 @@
 
 Follow these simple steps to get started with the Google Drive application:
 
-Authorization: Go to the application's website and authorize the application to access your Google Drive.
+- Authorization: Go to the application's website and authorize the application to access your Google Drive.
 
 ![Screenshot 2023-07-25 144208](https://github.com/venkat-jpg/Internship/assets/128593769/2bc98af1-0aaa-41e6-892e-e409ef6d95a9)
 ![Screenshot 2023-07-25 144255](https://github.com/venkat-jpg/Internship/assets/128593769/45e412ff-b790-4edf-8399-82d0eb709508)
 
 
-Dashboard: Once authorized, you'll be directed to the dashboard, where you can view your Google Drive files and folders.
+- Dashboard: Once authorized, you'll be directed to the dashboard, where you can view your Google Drive files and folders.
 
 ![Screenshot 2023-07-25 151649](https://github.com/venkat-jpg/Internship/assets/128593769/88bc9761-9ae9-4fdc-8c2f-f8016fbcc2fa)
 
-File Actions: Right-click on files and folders to access a range of actions, such as uploading, downloading, sharing, and more.
+- File Actions: Right-click on files and folders to access a range of actions, such as uploading, downloading, sharing, and more.
 
 ![Screenshot 2023-07-25 151839](https://github.com/venkat-jpg/Internship/assets/128593769/fb9eb3b0-87fe-4b38-b692-f716ae1ac5d0)
 
 
-Search: Use the search bar to find specific files based on various criteria, making file discovery a breeze.
+- Search: Use the search bar to find specific files based on various criteria, making file discovery a breeze.
 
-Settings: Customize the application's behavior, notifications, and sync preferences through the settings menu.
+- Settings: Customize the application's behavior, notifications, and sync preferences through the settings menu.
+
+- In firebase it will store the data
+
+  ![Screenshot 2023-07-25 152853](https://github.com/venkat-jpg/Internship/assets/128593769/7c032653-4afc-4d37-b95f-007bf6697c2e)
+
 
 ### Prerequisites
 
