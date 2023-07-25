@@ -45,8 +45,10 @@ Dashboard: Once authorized, you'll be directed to the dashboard, where you can v
 
 ![Screenshot 2023-07-25 151649](https://github.com/venkat-jpg/Internship/assets/128593769/88bc9761-9ae9-4fdc-8c2f-f8016fbcc2fa)
 
-
 File Actions: Right-click on files and folders to access a range of actions, such as uploading, downloading, sharing, and more.
+
+![Screenshot 2023-07-25 151839](https://github.com/venkat-jpg/Internship/assets/128593769/fb9eb3b0-87fe-4b38-b692-f716ae1ac5d0)
+
 
 Search: Use the search bar to find specific files based on various criteria, making file discovery a breeze.
 
