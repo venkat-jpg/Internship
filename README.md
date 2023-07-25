@@ -74,7 +74,14 @@ If you wish to deploy this project-2 on a web server, you can follow these steps
 
 
 ## Usage <a name="usage"></a>
+- Once you have authorized the Google Drive application and accessed the dashboard, you can start using the various features and functionalities to manage your files and folders effectively.
+- Upload Files: Click on the "Upload" button to select files from your computer and upload them to your Google Drive.
 
+- Download Files: Right-click on a file and select "Download" to save it to your local machine.
+
+- Organize Folders: Create new folders or move files into existing folders to keep your files organized.
+
+- Delete Files/Folders: Right-click on a file or folder and select "Delete" to remove it from your Google Drive.
 
 
 ## Built Using <a name="built_using"></a>
