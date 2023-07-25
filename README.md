@@ -1,6 +1,3 @@
-# Internship
-Project-2
-
 <p align="center">
   <a href="" rel="noopener">
     <img width=200px height=200px src="https://tse3.mm.bing.net/th?id=OIP.1om7KvIn8q4gtAD-YXfD6AHaHA&pid=Api&P=0&h=180" alt="Project logo">
@@ -26,7 +23,7 @@ Project-2
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 
-## 🧐 About <a name = "about"></a>
+##  About <a name = "about"></a>
 - Drive gives you access to files directly from your computer, without impacting all of your disk space. Spend less time waiting for files to   sync and more time being productive.
 - File Management: Easily upload, download, and organize files and folders within your Google Drive.
 
@@ -39,7 +36,7 @@ Project-2
 Follow these simple steps to get started with the Google Drive application:
 
 Authorization: Go to the application's website and authorize the application to access your Google Drive.
-<image src="">
+<image src=""C:\Users\svenk\OneDrive\Pictures\Screenshots\Screenshot 2023-07-25 144208.png"">
 
 Dashboard: Once authorized, you'll be directed to the dashboard, where you can view your Google Drive files and folders.
 
@@ -96,5 +93,4 @@ If you wish to deploy this project-2 on a web server, you can follow these steps
 
 - Special thanks to BheemesH for the guidance and support throughout the development process.
 - The Readme of my Project-2 in Github was inspired by the work of Bhupendraparihar (https://github.com/skill-lync-cs/project-documentation#readme).
-
 
